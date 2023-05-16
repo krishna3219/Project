@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+    web:
+      image: 4146b6aeda3e
+      ports:
+        - "1234:80"
+
